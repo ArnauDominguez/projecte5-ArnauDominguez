@@ -51,19 +51,17 @@ Ara posem la contrasenya que es la mateixa d’abans: P@ssw0rd
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180113.png?raw=true "/>
 
-Ara donem a next directament
+Aqui es posa automàticament el nom de domini de la bios
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180151.png?raw=true "/>
 
-Aqui es posa automàticament el nom de domini de la bios
+Ara li donem a next sense fer res
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180229.png?raw=true "/>
 
-Ara li donem a next sense fer res
+Després li donem a view script i el guardem per segudament enviar-lo a nosaltres mateixos per gmail
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180511.png?raw=true "/>
-
-Després li donem a view script i el guardem per segudament enviar-lo a nosaltres mateixos per gmail
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180541.png?raw=true "/>
 
