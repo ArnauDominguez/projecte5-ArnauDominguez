@@ -44,3 +44,17 @@ projecte5/
 - [Guia GitHub Classroom](https://github.com/SMX2n/guia-github-classroom)
 
 Bona sort! 🚀
+
+---
+
+### Tasques
+- [Tasca01](T01/README.md)
+- [Tasca02](T02/README.md)
+- [Tasca03](T03/README.md)
+- [Tasca04](T04/README.md)
+- [Tasca05](T05/README.md)
+- [Tasca06](T06/README.md)
+- [Tasca07](T07/README.md)
+- [Tasca08](T08/README.md)
+- [Tasca09](T09/README.md)
+- [Tasca10](T10/README.md)
