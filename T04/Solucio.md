@@ -37,8 +37,7 @@ Ens demanara reiniciar la màquina, i un cop reiniciada ja veurem el nom canviat
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T04/imatges/Captura%20de%20pantalla%202026-02-04%20171202.png?raw=true "/>
 
-
-
-
 https://docs.google.com/document/d/1Wfz6ZTlpuQ6KyIClb_AfJUNaETc78myPo-DWBxZu8Jg/edit?usp=sharing
+
+[Tornar a l'enunciat](README.md)
 
