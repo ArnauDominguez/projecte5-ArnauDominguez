@@ -1,7 +1,5 @@
 
-
-
-<img src=" https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T09/imatges/Captura%20de%20pantalla%202026-02-03%20172329.png?raw=true"/>
+<img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T09/imatges/Captura%20de%20pantalla%202026-02-03%20172329.png?raw=true "/>
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T09/imatges/Captura%20de%20pantalla%202026-02-03%20172505.png?raw=true "/>
 
