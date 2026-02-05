@@ -28,26 +28,27 @@ Aquí el sistema marca per defecte els features associats al rol que es vol inst
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20174809.png?raw=true "/>
 
+Aqui li donem a next
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20175042.png?raw=true "/>
 
-Aqui li donem a next
+Aqui li donem a instal·lar 
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20175108.png?raw=true "/>
 
-Aqui li donem a instal·lar 
+Un cop instal·lat anem a la bandereta i apretem al següent link
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20175632.png?raw=true "/>
 
-Un cop instal·lat anem a la bandereta i apretem al següent link
+Aquí marquem la ultima opció i posem el domini translogicxx.test on xx es el número de llista en el meu cas es 08
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20175947.png?raw=true "/>
 
-Aquí marquem la ultima opció i posem el domini translogicxx.test on xx es el número de llista en el meu cas es 08
+Ara posem la contrasenya que es la mateixa d’abans: P@ssw0rd 
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180035.png?raw=true "/>
 
-Ara posem la contrasenya que es la mateixa d’abans: P@ssw0rd 
+Ara donem a next directament
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180113.png?raw=true "/>
 
@@ -59,13 +60,13 @@ Ara li donem a next sense fer res
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180229.png?raw=true "/>
 
-Després li donem a view script i el guardem per segudament enviar-lo a nosaltres mateixos per gmail
+Després li donem a view script i el guardem per seguidament enviar-lo a nosaltres mateixos per gmail
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180511.png?raw=true "/>
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20180541.png?raw=true "/>
 
-Aquí estem enviant script
+Aquí estem enviant el script
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20181259.png?raw=true "/>
 
