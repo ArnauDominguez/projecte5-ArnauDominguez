@@ -102,6 +102,6 @@ Borrem tots els que sortin i afegim el 8.8.8.8 i tambe cambiem a 5 segons
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T05/imatges/Captura%20de%20pantalla%202026-02-04%20182658.png?raw=true "/>
 
-
-
 https://docs.google.com/document/d/1BDkaMgT4skrcoZbwV7yTyj5d31yTjXEvTy73eowEtvM/edit?usp=sharing 
+
+[Tornar a l'enunciat](README.md)
