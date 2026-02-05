@@ -43,3 +43,6 @@ Per aquest motiu, haurem de desplegar diverses màquines virtuals i, amb l’obj
 - **Requisitos de hardware para Windows Server**  
   *Microsoft Learn* (enllaç)
 
+[Solucio](Solucio.md)
+
+[Tornar pàgina projecte](../README.md)
