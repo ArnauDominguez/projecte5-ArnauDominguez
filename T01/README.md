@@ -321,3 +321,8 @@ Cada entregable ha de ser:
 - Pla de negoci
 
 > **Tot amb IA com a accelerador, però defensat amb criteri.**
+
+[Solucio](Solucio.md)
+
+[Tornar pàgina projecte](../README.md)
+
