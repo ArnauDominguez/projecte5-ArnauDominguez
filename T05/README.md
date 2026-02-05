@@ -33,3 +33,7 @@ A més, aquest procediment ha de servir com a **prova de concepte (PoC)** per mo
 - **Guia UD6.AA3 – Instal·lació DC**  
   *[Moodle SOX]*
 
+  [Solucio](SOLUCIO.md)
+
+  [Tornar pàgina projecte](../README.md)
+
