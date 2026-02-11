@@ -9,7 +9,7 @@ Posem dues interficies una en xarxa NAT i l’altre en host only
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T04/imatges/Captura%20de%20pantalla%202026-02-04%20171508.png?raw=true "/>
 
-Hem de afegir un disc de 10g
+Hem de afegir un disc de 10gb
 
 <img src="https://github.com/classesSMX2n/projecte5-ArnauDominguez/blob/main/T04/imatges/Captura%20de%20pantalla%202026-02-04%20171331.png?raw=true "/>
 
