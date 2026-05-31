@@ -62,3 +62,4 @@ Bona sort! 🚀
 - [Producte Final 2](P02/README.md)
 - [Producte Final 3](P03/README.md)
 
+[Tornar a la presentació personal](https://github.com/ArnauDominguez)
